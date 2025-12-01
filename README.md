@@ -1,17 +1,19 @@
-## Olá, eu sou o RenanFBH 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFBH&show_icons=true&theme=tokyonight"\>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFBH&theme=tokyonight"\>
-</div>
-<div style="display:inline_block"><br>
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-   <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="RenanFBH-" height="30" witdh="40", src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Renan+Françoso+Bezerra;Eu+sou+estudante+de+Desenvolvimento+de+Sistemas;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-##
+[![Gráfico de Atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=RenanFBH&bg_color=000&color=fff&line=fff&point=999&area=true&hide_border=true&custom_title=Gráfico+de+Atividades+no+GitHub&hide_yaxis=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="center">Habilidades:</h3>
+<p align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60"/>
+</p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
