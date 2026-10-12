@@ -1,17 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=6a1b9a,ec407a,ff7043,ffb74d,fff176&height=90&section=header&text=Renan%20Françoso%20Bezerra&fontSize=26&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Renan+F.+Bezerra;Sou+Técnico+de+Desenvolvimento+de+Sistemas;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+<div align="center">
+  <h3>🚀 Back-End Developer & Systems Engineering Student</h3>
+  <p><i>Transformando lógica em soluções eficientes e código de qualidade.</i></p>
+</div>
 
-<h3 align="center">Habilidades:</h3>
+---
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-</p>
+### 💡 Sobre Mim
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Universidade de Sorocaba (UNISO).
+- 📜 Técnico em **Desenvolvimento de Sistemas** pela Etec Fernando Prestes (Sorocaba).
+- 💻 Apaixonado por arquitetura back-end, bancos de dados relacionais e desenvolvimento de APIs robustas.
+- ⚡ Sempre explorando novas tecnologias e aprimorando projetos com Java, TypeScript e Python.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas & Desempenho
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="background-color: #0f172a;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RenanFBH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=cbd5e1&icon_color=8b5cf6" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="background-color: #0f172a;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFBH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=cbd5e1" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=6a1b9a,ec407a,ff7043,ffb74d,fff176&height=60&section=header" width="100%" />
+</div>
