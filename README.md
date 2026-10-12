@@ -21,14 +21,14 @@
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2b213a?style=for-the-badge&logo=openjdk&logoColor=ff7edb" />
+  <img src="https://img.shields.io/badge/Spring_Boot-2b213a?style=for-the-badge&logo=springboot&logoColor=36f9f6" />
+  <img src="https://img.shields.io/badge/Python-2b213a?style=for-the-badge&logo=python&logoColor=fede5d" />
+  <img src="https://img.shields.io/badge/TypeScript-2b213a?style=for-the-badge&logo=typescript&logoColor=36f9f6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2b213a?style=for-the-badge&logo=postgresql&logoColor=36f9f6" />
+  <img src="https://img.shields.io/badge/Godot-2b213a?style=for-the-badge&logo=godotengine&logoColor=ff7edb" />
+  <img src="https://img.shields.io/badge/Git-2b213a?style=for-the-badge&logo=git&logoColor=ff8b39" />
+  <img src="https://img.shields.io/badge/Figma-2b213a?style=for-the-badge&logo=figma&logoColor=ff7edb" />
 </div>
 
 ---
@@ -38,11 +38,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" style="background-color: #0f172a;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RenanFBH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=cbd5e1&icon_color=8b5cf6" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RenanFBH&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td align="center" style="background-color: #0f172a;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFBH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=cbd5e1" alt="Top Langs" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFBH&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" />
       </td>
     </tr>
   </table>
