@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=6a1b9a,ec407a,ff7043,ffb74d,fff176&height=90&section=header&text=Renan%20Françoso%20Bezerra&fontSize=26&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,25:ec407a,50:ff7043,75:ffb74d,100:fff176&height=90&section=header&text=Renan%20Fran%C3%A7oso%20Bezerra&fontSize=26&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor_list=6a1b9a,ec407a,ff7043,ffb74d,fff176&height=60&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a1b9a,25:ec407a,50:ff7043,75:ffb74d,100:fff176&height=60&section=header" width="100%" />
 </div>
