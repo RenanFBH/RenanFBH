@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Back-End Developer & Systems Engineering Student</h3>
+  <h3>🚀 Back-End Developer & Systems Analysis and Development Student</h3>
   <p><i>Transformando lógica em soluções eficientes e código de qualidade.</i></p>
 </div>
 
